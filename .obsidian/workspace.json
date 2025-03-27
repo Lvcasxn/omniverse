@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "5fd105bd3d18e797",
+    "type": "split",
+    "children": [
+      {
+        "id": "b60bfa85231c8d51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cdeb45ed77bdf39",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2367654ecdc7f6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a59acd9239929af6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dc0d506c09aecfc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "2470c258ef810585",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "rica",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "8e3ff6b356abef25",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b360bd4a4b5e218d",
+    "type": "split",
+    "children": [
+      {
+        "id": "946d7a29a49a7b42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98026136ec692a51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sem título.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Sem título"
+            }
+          },
+          {
+            "id": "86fb2b049a697427",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sem título.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Sem título"
+            }
+          },
+          {
+            "id": "af18db1b1bdc5dd6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f2acb35fb585c609",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sem título.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Sem título"
+            }
+          },
+          {
+            "id": "78fbbde9738a9cbb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "c9146822eb6f37d9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Revisar flashcards": false
+    }
+  },
+  "active": "3cdeb45ed77bdf39",
+  "lastOpenFiles": [
+    "README.md",
+    "Soluções para Falhas nas Válvulas de Escapamento.md",
+    "giro.md",
+    "rico.md",
+    "sistema de arrefecimento.md",
+    "Termostato.md",
+    "Prevenção de Superaquecimento.md",
+    "Bomba d'Água.md",
+    "Teste do Termostato.md",
+    "motor de arranque.md",
+    "Óleo lubrificante.md",
+    "mistura gasosa.md",
+    "sistema de lubrificação.md",
+    "Retífica do cabeçote.md",
+    "volante do motor.md",
+    "virabrequim.md",
+    "velas de ignição.md",
+    "válvulas de admissão.md",
+    "Troca do Líquido.md",
+    "Prevenção de Gripagem.md",
+    "Motor de Combustão Interna.md",
+    "pistões.md",
+    "Mapa de Tags.md",
+    "Limpeza do Radiador.md",
+    "injeção eletrônica.md",
+    "gripagem.md",
+    "Sem título",
+    "Obsidian/1 Mapa de Estudo.canvas",
+    "Obsidian/Pasted image 20250323144248.png",
+    "Obsidian/Exemplo do uso de flashcards.png",
+    "Obsidian/Exemplo de um Dashboard de Estudos.png",
+    "Pasted image 20250323084523.png",
+    "Pasted image 20250323084544.png",
+    "Pasted Image 20250323080516_196.png",
+    "Excalidraw",
+    "Obsidian"
+  ]
+}
